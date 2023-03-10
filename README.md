@@ -1,8 +1,8 @@
-Markdown Cheatsheet<a name="TOP"></a>
+Markdown Cheatsheet - 조연희
 ===================
 
-- - - - 
-# Heading 1 #
+
+# 제1 제목 #
 
     Markup :  # Heading 1 #
 
@@ -10,7 +10,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## 제2 제목 ##
 
     Markup :  ## Heading 2 ##
 
@@ -18,11 +18,11 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup: --------------- (below H2 text)
 
-### Heading 3 ###
+### 제3 제목 ###
 
     Markup :  ### Heading 3 ###
 
-#### Heading 4 ####
+#### 제4 제목 ####
 
     Markup :  #### Heading 4 ####
 
